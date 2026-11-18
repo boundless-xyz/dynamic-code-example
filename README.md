@@ -1,3 +1,5 @@
+> **Archived:** This repository is no longer maintained and is preserved for reference. For context on the Boundless ZK proving protocol pause and transition, see the [Boundless Foundation announcement](https://boundlessfdn.org/blog/zkc-the-ai-access-coin).
+
 # RISC Zero Dynamic Loading Example
 
 Builds a dynamic library from C code and loads and executes it at runtime in the ZKVM
